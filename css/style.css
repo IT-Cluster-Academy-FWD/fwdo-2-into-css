@@ -1,0 +1,18 @@
+h1 {
+  display: inline;
+  width: 300px;
+}
+
+span {
+  display: block;
+  width: 100px;
+}
+
+p {
+  display: inline-block;
+  width: 300px;
+}
+
+h2 {
+  visibility: hidden;
+}

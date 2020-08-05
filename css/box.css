@@ -1,0 +1,27 @@
+.box-model-example {
+  margin: 5px 20px 45px 20px;
+  padding-top: 20px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 30px;
+  padding: 5px 20px 5px 20px;
+  border: 25px solid black;
+  border-left: 1px solid red;
+  border-right: 1px solid green;
+  border-bottom: 1px solid gray;
+  height: 300px;
+  width: 300px;
+}
+
+.box-model-margin-example {
+  box-sizing: border-box;
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  margin-top: 50px;
+  border: 1px solid gold;
+  margin-right: 10px;
+  margin-left: 10px;
+  outline: 20px solid gray;
+}
