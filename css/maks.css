@@ -1,0 +1,49 @@
+html {
+  background-color: grey;
+}
+
+.box-1 {
+  outline: 23px solid rebeccapurple;
+  border: 25px solid black;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 15px 30px 20px 35px;
+  padding: 10px 25px 15px 30px;
+  background-color: lightblue;
+  height: 300px;
+  width: 300px;
+}
+
+.box-2 {
+  outline: 30px solid red;
+  border: 3px dashed pink;
+  display: inline-block;
+  margin: 20px 35px 30px 15px;
+  padding: 15px 30px 25px 10px;
+  background-color: lightcoral;
+  height: 300px;
+  width: 300px;
+}
+
+.box-3 {
+  outline: 2px solid black;
+  border: 4px dotted blue;
+  display: inline-block;
+  margin: 23px 17px 18px 22px;
+  padding: 18px 12px 13px 17px;
+  background-color: lightseagreen;
+  height: 300px;
+  width: 300px;
+}
+
+.box-4 {
+  color: yellow;
+}
+
+.box-5 {
+  color: orange;
+}
+
+.box-6 {
+  color: green;
+}

@@ -1,0 +1,44 @@
+div {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
+
+.box-1 {
+  box-sizing: border-box;
+  background-color: black;
+  padding: 10px 25px 15px 30px;
+  margin: 15px 30px 20px 35px;
+  border: 10px coral dotted;
+  outline: 20px blue solid;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box-2 {
+  background-color: coral;
+  padding: 15px 30px 25px 10px;
+  margin: 20px 35px 30px 15px;
+  border: 10px blue solid;
+  outline: 25px black double;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box-3 {
+  background-color: blue;
+  padding: 18px 12px 13px 17px;
+  margin: 23px 17px 18px 22px;
+  border: 10px black double;
+  outline: 15px coral dotted;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  color: white;
+}
+
+html {
+  background-color: beige;
+}
