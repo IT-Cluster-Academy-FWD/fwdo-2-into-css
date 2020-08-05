@@ -1,0 +1,52 @@
+.page {
+  background-color:lightgrey;
+}
+
+.box-model-example {
+  height: 300px;
+  width: 300px;
+} 
+
+.box-1 {
+  box-sizing: border-box;
+  display: inline-block;
+  color: darkred;
+  background-color: lightcoral;
+  border: 15px dotted darkslateblue;
+  outline: 5px solid brown;
+  padding: 10px 25px 15px 30px;
+  margin: 15px 30px 20px 35px;
+}
+
+.box-2 {
+  display: inline-block;
+  color: darkslategray;
+  background-color: lightgreen;
+  border: 5px solid green;
+  border: 10px dotted darkgreen;
+  outline: 5px dashed greenyellow;
+  padding: 15px 30px 25px 10px;
+  margin: 20px 35px 30px 15px;
+}
+
+.box-3 {
+  display: inline-block;
+  color:blue;
+  background-color: lightskyblue;
+  border: 3px double darkblue;
+  outline: 5px ridge rgb(1, 1, 54);
+  padding: 18px 12px 13px 17px;
+  margin: 23px 17px 18px 22px;
+}
+
+#p1 {
+  font-size: 20px;
+}
+
+#p2 {
+  font-size: 24px;
+}
+
+#p3 {
+  font-size: 28px;
+}

@@ -1,0 +1,35 @@
+.box-1 { 
+  color: rgb(33, 3, 61);
+  padding: 10px 25px 15px 30px;
+  margin: 15px 30px 20px 35px;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid gold;
+
+} 
+
+.box-2 { 
+  color: rgb(21, 22, 20);
+  padding: 15px 30px 25px 10px;
+  margin: 20px 35px 30px 15px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+.box-3 { 
+  color: rgb(7, 116, 31);
+  padding: 18px 12px 13px 17px;
+  margin: 23px 18px 18px 22px;
+  display: inline-block;
+  border: 1px solid red;
+
+}
+
+.class-width {
+  width: 300px;
+  height: 300px;
+}
+
+.class-background {
+  background-color:gray;
+}
