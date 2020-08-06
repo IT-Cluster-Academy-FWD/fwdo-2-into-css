@@ -4,16 +4,19 @@
   margin: 15px 30px 20px 35px;
   display: inline-block;
   box-sizing: border-box;
-  border: 1px solid gold;
-
-} 
+  border: 5px solid gold;
+  outline: 5px solid orangered;
+  font-size: 20pt;  
+}
 
 .box-2 { 
   color: rgb(21, 22, 20);
   padding: 15px 30px 25px 10px;
   margin: 20px 35px 30px 15px;
   display: inline-block;
-  border: 2px solid black;
+  border: 4px solid black;
+  outline: 8px solid green;
+  font-size: 30pt;  
 }
 
 .box-3 { 
@@ -21,8 +24,9 @@
   padding: 18px 12px 13px 17px;
   margin: 23px 18px 18px 22px;
   display: inline-block;
-  border: 1px solid red;
-
+  border: 6px solid red;
+  outline: 10px solid blue;
+  font-size: 25pt;  
 }
 
 .class-width {
@@ -33,3 +37,8 @@
 .class-background {
   background-color:gray;
 }
+
+body {
+  background-color: aqua;
+}
+
