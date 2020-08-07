@@ -38,12 +38,15 @@ html {
 
 .box-4 {
   color: yellow;
+  font-size: 15px;
 }
 
 .box-5 {
   color: orange;
+  font-size: 25px;
 }
 
 .box-6 {
   color: green;
+  font-size: 35px;
 }
